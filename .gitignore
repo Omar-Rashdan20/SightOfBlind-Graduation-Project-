@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.tflite
+*.h5
+*.pb
+
+# Media files
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# Pi camera cache (if any)
+*.mjpg
+
+# VSCode and JetBrains IDE configs
+.vscode/
+.idea/
