@@ -89,7 +89,7 @@ Yarmouk University
 Faculty of Computer Science and Information Technology  
 Department of Information Systems  
 Semester: Second 2024/2025  
-Students: Omar Rashdan, Anas Obeidat, Momen Bani-Ali 
+Students: Omar Rashdan, Anas Obeidat, Momen Bani-Ali. 
 Supervisor: Dr. Enas Alikhashashneh  
 > 📄 Full project report available in /docs.
 ## 🔒 License
