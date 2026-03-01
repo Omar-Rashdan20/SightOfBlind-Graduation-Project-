@@ -107,5 +107,5 @@ For access requests, academic inquiries, or demo opportunities:
 
 **Omar Mahmoud Rashdan**  
 📧 Email: *rashdanomar15@gmail.com*  
-🔗 GitHub: [https://github.com/Omar-Rashdan20](https://github.com/Obeidatt)
+🔗 GitHub:[Omar Rashdan20](https://github.com/Omar-Rashdan20)
 
