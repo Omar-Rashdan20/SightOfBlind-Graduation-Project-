@@ -99,13 +99,11 @@ This repository is protected under intellectual property rights.
 **All rights reserved © 2025 by the authors.**  
 No part of this codebase may be copied, modified, distributed, or used in other projects without **explicit written permission**.
 
-Contact: [@Omar-Rashdan20](https://github.com/Omar-Rashdan20) or Email:[Omar Rashdan](rashdanomar15@gmail.com) 
-
 ## 📬 Contact
 
 For access requests, academic inquiries, or demo opportunities:
 
 **Omar Mahmoud Rashdan**  
-📧 Email:[Omar Rashdan](rashdanomar15@gmail.com)
+📧 Email:rashdanomar15@gmail.com
 🔗 GitHub:[Omar Rashdan20](https://github.com/Omar-Rashdan20)
 
