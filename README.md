@@ -60,7 +60,7 @@ SightOfBlind/
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/Obeidatt/SightOfBlind-Graduation-Project-.git
+git clone https://github.com/Omar-Rashdan20/SightOfBlind-Graduation-Project-.git
 cd SightOfBlind
 ```
 2. Install Dependencies
@@ -99,13 +99,13 @@ This repository is protected under intellectual property rights.
 **All rights reserved © 2025 by the authors.**  
 No part of this codebase may be copied, modified, distributed, or used in other projects without **explicit written permission**.
 
-Contact: [@Omar-Rashdan20](https://github.com/Omar-Rashdan20) or Email: rashdanomar15@gmail.com.
+Contact: [@Omar-Rashdan20](https://github.com/Omar-Rashdan20) or Email:[Omar Rashdan](rashdanomar15@gmail.com) 
 
 ## 📬 Contact
 
 For access requests, academic inquiries, or demo opportunities:
 
 **Omar Mahmoud Rashdan**  
-📧 Email: *rashdanomar15@gmail.com*  
+📧 Email:[Omar Rashdan](rashdanomar15@gmail.com)
 🔗 GitHub:[Omar Rashdan20](https://github.com/Omar-Rashdan20)
 
